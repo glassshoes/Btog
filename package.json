@@ -1,0 +1,22 @@
+{
+  "name": "btog",
+  "version": "1.0.0",
+  "description": "_小 to 施工中..._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassshoes/Btog.git"
+  },
+  "keywords": [
+    "nzrmtjhz"
+  ],
+  "author": "glassshoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glassshoes/Btog/issues"
+  },
+  "homepage": "https://github.com/glassshoes/Btog#readme"
+}
