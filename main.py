@@ -8,4 +8,4 @@ async def root():
     app.mount('/', StaticFiles(directory='dist', html=True),name="static")
 
 if __name__ == '__main__':
-    uvicorn.run(app, host="151.243.95.210", port=80)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
