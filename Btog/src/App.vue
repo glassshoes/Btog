@@ -5,7 +5,9 @@ export default {
 </script>
 
 <template>
-  <div class="fullscreen-background"></div>
+  <div class="fullscreen-background">
+    
+  </div>
 </template>
 
 <style scoped>
